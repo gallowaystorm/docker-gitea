@@ -1,2 +1,4 @@
-*/gitea/*
-*/postgres/*
+gitea/
+gitea/*
+postgres/
+postgres/*
