@@ -1,2 +1,2 @@
-# gitea-docker
+# Docker Gitea
 Dockerized version for Gitea
